@@ -1,0 +1,16 @@
+total 152
+drwxr-xr-x 5 yole yole  4096 2011-11-16 22:51 .
+drwxrwxr-x 3 yole yole  4096 2011-11-16 20:44 ..
+-rw-r--r-- 1 yole yole   144 2011-09-19 22:32 .dep.inc
+-rw-rw-r-- 1 yole yole   707 2011-11-16 22:50 gmon.out
+-rwxrwxr-x 1 yole yole 88594 2011-11-16 22:47 gprof2dot.py
+drwxrwxr-x 2 yole yole  4096 2011-11-16 22:51 lib
+-rw-rw---- 1 yole yole     0 2011-11-16 22:51 list
+-rw-r--r-- 1 yole yole  1642 2011-11-16 22:10 Main.c
+-rw-rw-r-- 1 yole yole  1245 2011-11-16 22:51 Makefile
+-rw-rw-r-- 1 yole yole  1217 2011-11-16 22:49 Makefile~
+drwxrwxr-x 2 yole yole  4096 2011-11-16 22:51 obj
+-rw-rw---- 1 yole yole   166 2011-11-16 15:59 saida
+-rw-rw-r-- 1 yole yole  2699 2011-11-16 22:50 saida.png
+-rwxrwxr-x 1 yole yole 12912 2011-11-16 22:51 shell
+drwxrwxr-x 2 yole yole  4096 2011-11-16 22:18 source
